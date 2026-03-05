@@ -60,12 +60,13 @@ node index.js
 🔧 Termux Setup
 
 1. pkg install && pkg upgrade
-2. mkdir ai
-3. cd ai
-4. nano index.js (Paste code Press CTRL X→ Y → Enter)
-5. nano package.json (Same Step)
-6. npm install
-7. npm start
+2. pkg install nodejs
+3. mkdir ai
+4. cd ai
+5. nano index.js (Paste code Press CTRL X→ Y → Enter)
+6. nano package.json (Same Step)
+7. npm install
+8. npm start
 
 ---
 
