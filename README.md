@@ -57,5 +57,17 @@ node index.js
 
 ---
 
+🔧 Termux Setup
+
+1. pkg install && pkg upgrade
+2. mkdir ai
+3. cd ai
+4. nano index.js (Paste code Press CTRL X→ Y → Enter)
+5. nano package.json (Same Step)
+6. npm install
+7. npm start
+
+---
+
 💖 Owner: Sparky
 🔥 Version: v4 (Beta)
